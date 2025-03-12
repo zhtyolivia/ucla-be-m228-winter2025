@@ -56,6 +56,9 @@ python extract_tiles.py \
 --preset ./CLAM/presets/tcga.csv \
 --save_dir ../data \
 ```
+
+You may refer to the `extract_tiles.py` script for a description of other arguments. 
+
 Then the file structure looks like: 
 ```
 ucla-be-m228-winter2025/
